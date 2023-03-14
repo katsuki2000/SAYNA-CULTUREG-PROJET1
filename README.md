@@ -1,4 +1,4 @@
-# SAYNA-CULTUREG-PROJET1 (Version française)
+# SAYNA-CULTUREG-PROJET1
 
 Cette activité a pour objectif de s'initier à l’importance de la culture générale.
 Pour réaliser le projet, Google Doc a été utilisé comme éditeur de texte. 
